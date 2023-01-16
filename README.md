@@ -1,2 +1,2 @@
 # Javascript-project
-this is just a demo for a prooject of mine
+this is just a demo for a project of mine
